@@ -8,7 +8,7 @@ Second iteration of my Portfolio built with HTML and CSS.
 
 ## Live Link
 
-https://jplukarski.github.io/Responsive-Portfolio/index.html
+https://jplukarski.github.io/Basic-Responsive-Portfolio/index.html
 
 ## Future Iterations
 
